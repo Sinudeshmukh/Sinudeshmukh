@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sinudeshmukh
+- 👋 Hi, I’m Shriniwas Deshmukh
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Tensorflow and Pytorch
 - 💞️ I’m looking to collaborate on Tensorflow and Pytorch Projects
