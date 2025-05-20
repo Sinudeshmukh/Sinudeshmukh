@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shriniwas Deshmukh
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Tensorflow and Pytorch
+- 🌱 I’m currently working on Tensorflow and Pytorch projects.
 - 💞️ I’m looking to collaborate on Tensorflow and Pytorch Projects
 - 📫 You can Reach me at 
 sinudeshmukh@gmail.com
